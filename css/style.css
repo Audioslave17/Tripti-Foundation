@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF6F0F;
-    --secondary: #FFF0E6;
+    --primary: #4E4187;
+    --secondary: #4E4187;
     --light: #F8F8F9;
     --dark: #001D23;
 }
@@ -42,7 +42,7 @@
 }
 
 .btn.btn-primary:hover {
-    color: var(--primary);
+    color:#4E4187;
     background: transparent;
 }
 
