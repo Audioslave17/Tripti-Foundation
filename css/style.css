@@ -153,7 +153,7 @@
 #carousel-img{
     height: 100vh;
     background-size: cover;
-    background-position: contain;
+    background-position: center;
 }
 
 .carousel-control-prev,
