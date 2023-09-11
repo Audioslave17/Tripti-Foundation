@@ -152,6 +152,8 @@
 
 #carousel-img{
     height: 100vh;
+    background-size: cover;
+    background-position: contain;
 }
 
 .carousel-control-prev,
