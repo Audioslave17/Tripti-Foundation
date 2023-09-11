@@ -150,6 +150,10 @@
     z-index: 1;
 }
 
+#carousel-img{
+    height: 100vh;
+}
+
 .carousel-control-prev,
 .carousel-control-next {
     width: 15%;
