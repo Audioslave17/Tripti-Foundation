@@ -301,6 +301,10 @@
     background: var(--primary);
 }
 
+#service-icon{
+    width: 50%;
+}
+
 
 /*** Testimonial ***/
 .testimonial-carousel::before {
