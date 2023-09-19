@@ -14,6 +14,7 @@
     opacity: 1;
 }
 
+
 .wow,
 .animated {
     animation-duration: 2s !important;
@@ -194,9 +195,9 @@ h4, h5, h6, .h4, .h5, .h6 {
 .hero-header {
     /* margin-bottom: 6rem; */
     padding-top: 15rem;
-    padding-bottom: 6rem;
-    background: url("../img/firefighters-spray-water-wildfire_37874-2627.jpg"), center center no-repeat;
-    background-size: cover;
+    padding-bottom:6rem;
+    background: url("../img/bghero.jpg"), center center no-repeat;
+    background-size:cover;
 }
 
 .hero-header .hero-header-inner {
