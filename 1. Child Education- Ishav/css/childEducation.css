@@ -282,6 +282,18 @@ h4, h5, h6, .h4, .h5, .h6 {
     color: var(--bs-primary) !important;
     border: 0;
 }
+
+#aboutSection-img1{
+    border-radius: 0.5rem;
+}
+#aboutSection-img2{
+    border-radius: 0.5rem;
+    height: 50%;
+}
+#aboutSection-img3{
+    border-radius: 0.5rem;
+    height: 50%;
+}
 /*** About End ***/
 
 
